@@ -1,5 +1,5 @@
 # 🚀 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+developer+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer+student)](https://git.io/typing-svg)
 
 # 🌐 Socials:
 📬 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislau-yarokhovich-0ab4682b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
